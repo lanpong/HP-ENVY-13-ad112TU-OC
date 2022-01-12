@@ -1,4 +1,4 @@
-惠普 envy13 黑苹果OC配置
+惠普 envy13 黑苹果 OC 配置
 ====
 
 更改自 [SilentSliver](https://github.com/SilentSliver/HP-ENVY-13-ad1XX-Hackintosh/tree/Opencore)
